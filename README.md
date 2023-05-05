@@ -15,7 +15,7 @@
 ### ゼミ :
 ゼミの発表スライド
 - 全体ゼミ
-- (福田/Yeoh研ゼミ)[https://github.com/19238901/Fukuda-Yeoh_lab.git]
+- [福田/Yeoh研ゼミ](https://github.com/19238901/Fukuda-Yeoh_lab.git)
 ### 中間 :
 中間発表 (2022/09/22)
 - 予稿
