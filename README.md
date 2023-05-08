@@ -1,6 +1,6 @@
 # SagaUniv
 佐賀大学(B3-B4) 
-## [授業関連資料(Private)]()
+## [授業関連資料(Private)](https://github.com/19238901/SagaClass.git)
 ### 授業資料 :
 -  B3
 -  B4
